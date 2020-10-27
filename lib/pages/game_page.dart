@@ -195,7 +195,7 @@ class _GamePageState extends State<GamePage> {
 
   _shareGame(BuildContext context) async {
     await Share.share(
-      'Come play with me ! - https://github.com/philipyruinho',
+      'Get the game on: https://github.com/brunostrippoli',
     );
   }
 
